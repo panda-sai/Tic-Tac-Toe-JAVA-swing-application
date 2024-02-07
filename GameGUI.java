@@ -7,6 +7,7 @@ class GameGUI implements ActionListener
 {
 	JFrame f;
 	int count;
+int coins;// added this to check git tutorial
 	String player1;
 	String player2;
 	JButton b1;
